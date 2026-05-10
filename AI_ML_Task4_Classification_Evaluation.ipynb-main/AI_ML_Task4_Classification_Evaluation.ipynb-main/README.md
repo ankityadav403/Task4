@@ -108,7 +108,7 @@ python filename.py
 ------------------------------------------------------------
 
 ## Author
-Rudra Rajeev
+Ankit Raj
 
 B.Tech Student
 Saharsa College of Engineering
